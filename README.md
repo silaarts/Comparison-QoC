@@ -13,7 +13,7 @@ This repository contains the code regarding the article "Comparing text mining a
 
 ## Publication
 
-This article was accepted by PLos One and will be available [here soon](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292578).
+This article was accepted by PLOS ONE and will be available [here soon](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292578).
 
 ### Reference
 
